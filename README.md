@@ -28,11 +28,6 @@
 
 <br/>
 
-<div align="center">
-
-<!-- Premium Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=300&section=header&text=PAARTH%20GOSWAMI&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" width="100%" />
-
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=building+autonomous+agents+🤖;crafting+SaaS+products+🚀;obsessed+with+high-performance+systems+⚡" alt="Typing SVG" />
