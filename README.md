@@ -23,63 +23,48 @@ My work spans training models, designing interactive experiences and connecting 
 
 <br />
 
-## `02 / SELECTED WORK` &nbsp; Ideas, made real
+<img src="assets/selected-work-motion.gif" width="100%" alt="Selected work: machine learning, health tech, productivity and real-time communication." />
 
-From machine learning and healthcare to productivity and real-time communication — each project starts with a problem and becomes a complete experience.
+<br />
 
-### 🧠 &nbsp; Machine Learning · SONIQ
-
-A music genre classification system that turns an audio file into an interactive visual and analytical experience. A custom CNN learns from log-Mel spectrograms; a FastAPI service exposes inference to a React dashboard.
-
-- Explore the **waveform, spectrogram and genre scores** in one interface.
-- Follow the project from **dataset preparation and model training** to inference and the final dashboard.
-- Built as an academic project with documented evaluation and limitations.
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,ts&theme=dark" alt="Python, TensorFlow, FastAPI, React, TypeScript" />
-
-[Explore SONIQ ↗](https://github.com/Paarth-dev-lab/music-genre-classifier)
-
----
-
-### 🩺 &nbsp; Health Tech · AYUSETU
-
-A connected-care prototype bringing patient intake, clinical review, pharmacy and follow-up into one experience, across web and mobile interfaces.
-
-- Brings together **patient intake, clinician review and pharmacy workflows**.
-- Explores language support, rule-based decisions and at-home follow-up.
-- Built as a **hackathon and engineering prototype** using synthetic data, not for patient care.
-
-<img src="https://skillicons.dev/icons?i=ts,react,flutter,cloudflare&theme=dark" alt="TypeScript, React, Flutter, Cloudflare; also built with Hono" />
-
-[Explore AYUSETU ↗](https://github.com/potlasrisharan/hackshift-sudarshan)
-
----
-
-### ⚡ &nbsp; Productivity & AI · KAALI
-
-A personal command centre for planning the day, tracking progress and working with an AI mentor across web and Telegram.
-
-- Organise **tasks, goals and meetings** with progress and consistency views.
-- Use **voice commands and Telegram** to interact with the mentor.
-- Sync data through Supabase and build on a TypeScript web and API stack.
-
-<img src="https://skillicons.dev/icons?i=ts,react,express,supabase&theme=dark" alt="TypeScript, React, Express, Supabase; also built with Groq" />
-
-[Explore KAALI ↗](https://github.com/Paarth-dev-lab/KAALI-)
-
----
-
-### 🌐 &nbsp; Real-time Communication · SyncMate
-
-A Chrome extension that synchronizes YouTube playback and adds peer-to-peer video communication, built for people watching together at a distance.
-
-- Synchronizes **play, pause and seek** across a shared room.
-- Uses **WebRTC** for peer-to-peer media and Socket.IO for signaling.
-- Keeps its overlay isolated with Shadow DOM and restores session state across navigation.
-
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML, CSS; with WebRTC, Socket.IO and Chrome Extensions" />
-
-[Explore SyncMate ↗](https://github.com/Paarth-dev-lab/SyncMate-3)
+<table>
+<tr>
+<td width="50%" valign="top">
+  <sub><strong>01 &nbsp; / &nbsp; MACHINE LEARNING</strong></sub>
+  <h3>SONIQ &nbsp; · &nbsp; See the sound</h3>
+  <p>A music intelligence studio that turns audio into genre insights through a custom CNN and an interactive dashboard.</p>
+  <p><strong>THE EXPERIENCE</strong><br />Waveform, spectrogram and genre scores in one place; from model training through to inference.</p>
+  <p><img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,ts&theme=dark" alt="Python, TensorFlow, FastAPI, React and TypeScript" /></p>
+  <a href="https://github.com/Paarth-dev-lab/music-genre-classifier"><img src="https://img.shields.io/badge/EXPLORE_SONIQ-1A3330?style=for-the-badge&logo=github&logoColor=95EBC7" alt="Explore SONIQ repository" /></a>
+</td>
+<td width="50%" valign="top">
+  <sub><strong>02 &nbsp; / &nbsp; HEALTH TECH</strong></sub>
+  <h3>AYUSETU &nbsp; · &nbsp; Connected care</h3>
+  <p>A connected-care prototype bringing intake, clinical review, pharmacy and follow-up together across web and mobile.</p>
+  <p><strong>THE EXPERIENCE</strong><br />Language support, rule-based workflows and at-home follow-up. Prototype using synthetic data; not for patient care.</p>
+  <p><img src="https://skillicons.dev/icons?i=ts,react,flutter,cloudflare&theme=dark" alt="TypeScript, React, Flutter and Cloudflare" /></p>
+  <a href="https://github.com/potlasrisharan/hackshift-sudarshan"><img src="https://img.shields.io/badge/EXPLORE_AYUSETU-1A3330?style=for-the-badge&logo=github&logoColor=95EBC7" alt="Explore AYUSETU repository" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub><strong>03 &nbsp; / &nbsp; PRODUCTIVITY &amp; AI</strong></sub>
+  <h3>KAALI &nbsp; · &nbsp; Own your day</h3>
+  <p>A personal productivity command centre for planning, tracking progress and working with an AI mentor.</p>
+  <p><strong>THE EXPERIENCE</strong><br />Organise tasks and goals, track consistency, and interact through voice and Telegram.</p>
+  <p><img src="https://skillicons.dev/icons?i=ts,react,express,supabase&theme=dark" alt="TypeScript, React, Express and Supabase" /></p>
+  <a href="https://github.com/Paarth-dev-lab/KAALI-"><img src="https://img.shields.io/badge/EXPLORE_KAALI-1A3330?style=for-the-badge&logo=github&logoColor=95EBC7" alt="Explore KAALI repository" /></a>
+</td>
+<td width="50%" valign="top">
+  <sub><strong>04 &nbsp; / &nbsp; REAL-TIME COMMUNICATION</strong></sub>
+  <h3>SyncMate &nbsp; · &nbsp; Watch together</h3>
+  <p>A Chrome extension for synchronised YouTube playback and peer-to-peer video, wherever you are.</p>
+  <p><strong>THE EXPERIENCE</strong><br />Shared play, pause and seek; WebRTC media, Socket.IO signaling and an isolated Shadow DOM overlay.</p>
+  <p><img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML and CSS, plus WebRTC and Socket.IO" /></p>
+  <a href="https://github.com/Paarth-dev-lab/SyncMate-3"><img src="https://img.shields.io/badge/EXPLORE_SYNCMATE-1A3330?style=for-the-badge&logo=github&logoColor=95EBC7" alt="Explore SyncMate repository" /></a>
+</td>
+</tr>
+</table>
 
 <br />
 
