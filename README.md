@@ -15,20 +15,67 @@
 <details>
 <summary>More about me</summary>
 
-I’m Paarth Goswami, a B.Tech CSE (AI/ML) student in Gurugram. I build intelligent products, bringing together design, machine learning and full-stack engineering from the first sketch through to working software.
+I’m Paarth Goswami, a B.Tech CSE (AI/ML) student based in Gurugram, India. I enjoy building intelligent products that bring together thoughtful interfaces, machine learning and full-stack engineering.
+
+My work spans training models, designing interactive experiences and connecting frontends to the systems behind them. Hackathons have taught me to collaborate, move quickly and turn an ambitious idea into a working prototype. I like carrying that same curiosity into every project: understand the problem, build with intent and keep refining the details.
 
 </details>
 
 <br />
 
-<img src="assets/projects-board.png" width="100%" alt="Selected work: SONIQ, music genre classification with a custom CNN; AYUSETU, a connected care prototype; KAALI, an AI-assisted productivity workspace; and SyncMate, synchronized YouTube viewing with peer-to-peer video." />
+## `02 / SELECTED WORK` &nbsp; Ideas, made real
 
-<div align="center">
-  <a href="https://github.com/Paarth-dev-lab/music-genre-classifier"><img src="https://img.shields.io/badge/01_SONIQ-1A2930?style=for-the-badge&logo=github&logoColor=AA9AFF" alt="SONIQ repository" /></a>
-  <a href="https://github.com/potlasrisharan/hackshift-sudarshan"><img src="https://img.shields.io/badge/02_AYUSETU-1A2930?style=for-the-badge&logo=github&logoColor=83EBC4" alt="AYUSETU repository" /></a>
-  <a href="https://github.com/Paarth-dev-lab/KAALI-"><img src="https://img.shields.io/badge/03_KAALI-1A2930?style=for-the-badge&logo=github&logoColor=F0AE85" alt="KAALI repository" /></a>
-  <a href="https://github.com/Paarth-dev-lab/SyncMate-3"><img src="https://img.shields.io/badge/04_SYNCMATE-1A2930?style=for-the-badge&logo=github&logoColor=87C5F1" alt="SyncMate repository" /></a>
-</div>
+From machine learning and healthcare to productivity and real-time communication — each project starts with a problem and becomes a complete experience.
+
+### 🧠 &nbsp; Machine Learning · SONIQ
+
+A music genre classification system that turns an audio file into an interactive visual and analytical experience. A custom CNN learns from log-Mel spectrograms; a FastAPI service exposes inference to a React dashboard.
+
+- Explore the **waveform, spectrogram and genre scores** in one interface.
+- Follow the project from **dataset preparation and model training** to inference and the final dashboard.
+- Built as an academic project with documented evaluation and limitations.
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,ts&theme=dark" alt="Python, TensorFlow, FastAPI, React, TypeScript" />  
+[Explore SONIQ ↗](https://github.com/Paarth-dev-lab/music-genre-classifier)
+
+---
+
+### 🩺 &nbsp; Health Tech · AYUSETU
+
+A connected-care prototype bringing patient intake, clinical review, pharmacy and follow-up into one experience, across web and mobile interfaces.
+
+- Brings together **patient intake, clinician review and pharmacy workflows**.
+- Explores language support, rule-based decisions and at-home follow-up.
+- Built as a **hackathon and engineering prototype** using synthetic data, not for patient care.
+
+<img src="https://skillicons.dev/icons?i=ts,react,flutter,cloudflare&theme=dark" alt="TypeScript, React, Flutter, Cloudflare; also built with Hono" />  
+[Explore AYUSETU ↗](https://github.com/potlasrisharan/hackshift-sudarshan)
+
+---
+
+### ⚡ &nbsp; Productivity & AI · KAALI
+
+A personal command centre for planning the day, tracking progress and working with an AI mentor across web and Telegram.
+
+- Organise **tasks, goals and meetings** with progress and consistency views.
+- Use **voice commands and Telegram** to interact with the mentor.
+- Sync data through Supabase and build on a TypeScript web and API stack.
+
+<img src="https://skillicons.dev/icons?i=ts,react,express,supabase&theme=dark" alt="TypeScript, React, Express, Supabase; also built with Groq" />  
+[Explore KAALI ↗](https://github.com/Paarth-dev-lab/KAALI-)
+
+---
+
+### 🌐 &nbsp; Real-time Communication · SyncMate
+
+A Chrome extension that synchronizes YouTube playback and adds peer-to-peer video communication, built for people watching together at a distance.
+
+- Synchronizes **play, pause and seek** across a shared room.
+- Uses **WebRTC** for peer-to-peer media and Socket.IO for signaling.
+- Keeps its overlay isolated with Shadow DOM and restores session state across navigation.
+
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML, CSS; with WebRTC, Socket.IO and Chrome Extensions" />  
+[Explore SyncMate ↗](https://github.com/Paarth-dev-lab/SyncMate-3)
 
 <br />
 
@@ -36,7 +83,13 @@ I’m Paarth Goswami, a B.Tech CSE (AI/ML) student in Gurugram. I build intellig
 
 <br /><br />
 
-## `04 / THE TOOLBOX` &nbsp; Tools for the craft
+<img src="assets/language-dashboard.gif" width="100%" alt="Language breakdown: SONIQ — TypeScript 52.6%, Python 41.0%, Jupyter Notebook 5.2%, other 1.2%. AYUSETU — TypeScript 71.9%, Dart 20.2%, PLpgSQL 2.6%, other 5.3%. KAALI — TypeScript 99.6%, other 0.4%. SyncMate — JavaScript 84.8%, CSS 10.5%, HTML 4.7%." />
+
+<sub>Language percentages are based on GitHub-reported code bytes in the four featured repositories, captured 13 November 2026. They are a snapshot, not a measure of skill; AYUSETU refers to the team repository. Values are rounded.</sub>
+
+<br />
+
+## `05 / THE TOOLBOX` &nbsp; Tools for the craft
 
 <div align="center">
   <p><strong>INTELLIGENCE &nbsp; / &nbsp; FRONTEND &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; DELIVERY</strong></p>
@@ -45,7 +98,7 @@ I’m Paarth Goswami, a B.Tech CSE (AI/ML) student in Gurugram. I build intellig
 
 <br />
 
-## `05 / BUILDING IN PUBLIC` &nbsp; The contribution graph
+## `06 / BUILDING IN PUBLIC` &nbsp; The contribution graph
 
 <div align="center">
   <a href="https://github.com/Paarth-dev-lab"><img src="https://ghchart.rshah.org/6ee7b7/Paarth-dev-lab" width="100%" alt="Paarth's GitHub contribution graph" /></a>
