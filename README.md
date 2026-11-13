@@ -10,24 +10,14 @@
 
 <br />
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img src="assets/about-panel.png" width="100%" alt="About Paarth Goswami: a product builder based in Gurugram, studying B.Tech CSE in AI and ML, focused on intelligent products and thoughtful experiences." />
 
-**A little about me**
+<details>
+<summary>More about me</summary>
 
-I'm Paarth Goswami, a B.Tech CSE (AI/ML) student and product builder based in Gurugram, India. I enjoy taking ideas from the first sketch to the systems behind the screen — bringing together thoughtful design, intelligent models and full-stack engineering.
+I’m Paarth Goswami, a B.Tech CSE (AI/ML) student in Gurugram. I build intelligent products, bringing together design, machine learning and full-stack engineering from the first sketch through to working software.
 
-</td>
-<td width="35%" valign="top">
-
-**CURRENT FOCUS**<br />AI / ML · Full-stack products<br /><br />
-**BASED IN**<br />Gurugram, India<br /><br />
-**THE APPROACH**<br />Imagine → Build → Refine
-
-</td>
-</tr>
-</table>
+</details>
 
 <br />
 
@@ -46,7 +36,7 @@ I'm Paarth Goswami, a B.Tech CSE (AI/ML) student and product builder based in Gu
 
 <br /><br />
 
-## `03 / THE TOOLBOX` &nbsp; Tools for the craft
+## `04 / THE TOOLBOX` &nbsp; Tools for the craft
 
 <div align="center">
   <p><strong>INTELLIGENCE &nbsp; / &nbsp; FRONTEND &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; DELIVERY</strong></p>
@@ -55,7 +45,7 @@ I'm Paarth Goswami, a B.Tech CSE (AI/ML) student and product builder based in Gu
 
 <br />
 
-## `04 / BUILDING IN PUBLIC` &nbsp; The contribution graph
+## `05 / BUILDING IN PUBLIC` &nbsp; The contribution graph
 
 <div align="center">
   <a href="https://github.com/Paarth-dev-lab"><img src="https://ghchart.rshah.org/6ee7b7/Paarth-dev-lab" width="100%" alt="Paarth's GitHub contribution graph" /></a>
