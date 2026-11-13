@@ -1,33 +1,29 @@
 <div align="center">
-  <img src="assets/paarth-hero.gif" alt="Paarth — building what's next. AI/ML, full-stack and product engineering." width="100%" />
+  <img src="assets/profile-hero.gif" width="100%" alt="Paarth Goswami — AI and ML, full-stack and product engineering. I turn ambitious ideas into thoughtful digital products." />
   <br />
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1100&color=A99BFF&center=true&vCenter=true&width=700&lines=From+ambitious+ideas+to+working+products.;Intelligence+meets+thoughtful+engineering.;Building+experiences+that+feel+effortless." alt="From ambitious ideas to working products. Intelligence meets thoughtful engineering." /></a>
-  <br />
-  <a href="https://paarths-portfolio.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-8B7CF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
-  <a href="https://www.linkedin.com/in/paarth-goswami-113383370"><img src="https://img.shields.io/badge/LINKEDIN-16213E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:thepaarthgoswami@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-16213E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://paarths-portfolio.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-74E8B8?style=for-the-badge&logo=vercel&logoColor=0B151B&labelColor=74E8B8" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/paarth-goswami-113383370"><img src="https://img.shields.io/badge/LINKEDIN-172B2C?style=for-the-badge&logo=linkedin&logoColor=8CF0C9" alt="LinkedIn" /></a>
+  <a href="mailto:thepaarthgoswami@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-172B2C?style=for-the-badge&logo=gmail&logoColor=8CF0C9" alt="Email" /></a>
   <br /><br />
-  <sub><a href="#-about">ABOUT</a> &nbsp; / &nbsp; <a href="#-selected-work">SELECTED WORK</a> &nbsp; / &nbsp; <a href="#-hackathons">HACKATHONS</a> &nbsp; / &nbsp; <a href="#-toolbox">TOOLBOX</a> &nbsp; / &nbsp; <a href="#-lets-connect">CONNECT</a></sub>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=80E9BE&center=true&vCenter=true&width=720&lines=Building+products+with+purpose.;Designing+experiences+that+feel+effortless.;Turning+ambitious+ideas+into+working+systems." alt="Building products with purpose. Designing experiences that feel effortless. Turning ambitious ideas into working systems." /></a>
 </div>
 
 <br />
-
-## ✦ About
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-**Hey, I'm Paarth Goswami.** I build at the intersection of intelligent systems, full-stack engineering and product design.
+**A little about me**
 
-I like taking an idea beyond the prototype: understanding the problem, designing the experience and engineering the system that makes it work. From music intelligence to connected healthcare and real-time collaboration, I'm drawn to products that make complex technology feel intuitive.
+I'm Paarth Goswami, a B.Tech CSE (AI/ML) student and product builder based in Gurugram, India. I enjoy taking ideas from the first sketch to the systems behind the screen — bringing together thoughtful design, intelligent models and full-stack engineering.
 
 </td>
 <td width="35%" valign="top">
 
+**CURRENT FOCUS**<br />AI / ML · Full-stack products<br /><br />
 **BASED IN**<br />Gurugram, India<br /><br />
-**FOCUS**<br />AI / ML · Full-stack · Product<br /><br />
-**STUDYING**<br />B.Tech in CSE (AI / ML)
+**THE APPROACH**<br />Imagine → Build → Refine
 
 </td>
 </tr>
@@ -35,96 +31,45 @@ I like taking an idea beyond the prototype: understanding the problem, designing
 
 <br />
 
-## ◈ Selected work
-
-> A selection of ideas turned into working systems — spanning AI, health, productivity and real-time connection.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 &nbsp; SONIQ</h3>
-<p><strong>Music intelligence, made visible.</strong></p>
-<p>An end-to-end music genre classification experience with a custom CNN, audio visualization and an interactive analysis dashboard.</p>
-<p><code>Python</code> <code>TensorFlow</code> <code>FastAPI</code> <code>React</code></p>
-<a href="https://github.com/Paarth-dev-lab/music-genre-classifier">Explore repository ↗</a>
-</td>
-<td width="50%" valign="top">
-<h3>02 &nbsp; AYUSETU</h3>
-<p><strong>A connected care prototype.</strong></p>
-<p>Bringing patient intake, clinical review, pharmacy and follow-up into one continuity-of-care experience.</p>
-<p><code>TypeScript</code> <code>React</code> <code>Flutter</code> <code>Cloudflare</code></p>
-<a href="https://github.com/potlasrisharan/hackshift-sudarshan">Explore repository ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 &nbsp; KAALI</h3>
-<p><strong>A productivity operating system.</strong></p>
-<p>A personal productivity workspace combining planning, progress tracking and an AI mentor in one place.</p>
-<p><code>TypeScript</code> <code>React</code> <code>Express</code> <code>Supabase</code></p>
-</td>
-<td width="50%" valign="top">
-<h3>04 &nbsp; SyncMate</h3>
-<p><strong>Distance, a little less distant.</strong></p>
-<p>A Chrome extension for synchronized YouTube viewing and peer-to-peer video conversations.</p>
-<p><code>JavaScript</code> <code>WebRTC</code> <code>Socket.IO</code> <code>Chrome APIs</code></p>
-</td>
-</tr>
-</table>
-
-<div align="center"><a href="https://paarths-portfolio.vercel.app/">More of my work on the portfolio ↗</a></div>
-
-<br />
-
-## ◇ How I build
-
-```mermaid
-flowchart LR
-    A["01 · Discover<br/>Understand the problem"] --> B["02 · Design<br/>Shape the experience"]
-    B --> C["03 · Engineer<br/>Build the system"]
-    C --> D["04 · Refine<br/>Learn and iterate"]
-```
-
-<br />
-
-## ✧ Hackathons
-
-Building under pressure, collaborating with teams and turning ideas into real demos. Proud to have won across these hackathons:
-
-| Event | Venue |
-|:--|:--|
-| **Avinya 2026** | IIT Delhi |
-| **HackShift** | IIIT Delhi |
-| **HackCBS** | — |
-
-<br />
-
-## ⌘ Toolbox
-
-<table>
-<tr>
-<td width="50%" valign="top"><strong>INTELLIGENCE &amp; DATA</strong><br /><br /><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow and scikit-learn" /></td>
-<td width="50%" valign="top"><strong>INTERFACES</strong><br /><br /><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark" alt="TypeScript, JavaScript, React and Next.js" /></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong>SYSTEMS &amp; DATA</strong><br /><br /><img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb&theme=dark" alt="Node.js, FastAPI, PostgreSQL and MongoDB" /></td>
-<td width="50%" valign="top"><strong>BUILD &amp; SHIP</strong><br /><br /><img src="https://skillicons.dev/icons?i=docker,git,aws,linux&theme=dark" alt="Docker, Git, AWS and Linux" /></td>
-</tr>
-</table>
-
-<br />
+<img src="assets/projects-board.png" width="100%" alt="Selected work: SONIQ, music genre classification with a custom CNN; AYUSETU, a connected care prototype; KAALI, an AI-assisted productivity workspace; and SyncMate, synchronized YouTube viewing with peer-to-peer video." />
 
 <div align="center">
+  <a href="https://github.com/Paarth-dev-lab/music-genre-classifier"><img src="https://img.shields.io/badge/01_SONIQ-1A2930?style=for-the-badge&logo=github&logoColor=AA9AFF" alt="SONIQ repository" /></a>
+  <a href="https://github.com/potlasrisharan/hackshift-sudarshan"><img src="https://img.shields.io/badge/02_AYUSETU-1A2930?style=for-the-badge&logo=github&logoColor=83EBC4" alt="AYUSETU repository" /></a>
+  <a href="https://github.com/Paarth-dev-lab/KAALI-"><img src="https://img.shields.io/badge/03_KAALI-1A2930?style=for-the-badge&logo=github&logoColor=F0AE85" alt="KAALI repository" /></a>
+  <a href="https://github.com/Paarth-dev-lab/SyncMate-3"><img src="https://img.shields.io/badge/04_SYNCMATE-1A2930?style=for-the-badge&logo=github&logoColor=87C5F1" alt="SyncMate repository" /></a>
+</div>
 
-## ↗ Let's connect
+<br />
 
-Have an interesting problem, project or idea? I'd love to hear about it.
-
-<a href="https://paarths-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B7CF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/paarth-goswami-113383370"><img src="https://img.shields.io/badge/LINKEDIN-16213E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:thepaarthgoswami@gmail.com"><img src="https://img.shields.io/badge/EMAIL-16213E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="assets/hackathons-board.png" width="100%" alt="Hackathon wins: Avinya 2026 at IIT Delhi, HackShift at IIIT Delhi, and HackCBS." />
 
 <br /><br />
-<sub>DESIGNED WITH INTENT &nbsp; ✦ &nbsp; BUILT BY PAARTH</sub>
 
+## `03 / THE TOOLBOX` &nbsp; Tools for the craft
+
+<div align="center">
+  <p><strong>INTELLIGENCE &nbsp; / &nbsp; FRONTEND &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; DELIVERY</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,ts,js,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,git,aws,linux&theme=dark&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Docker, Git, AWS and Linux" />
+</div>
+
+<br />
+
+## `04 / BUILDING IN PUBLIC` &nbsp; The contribution graph
+
+<div align="center">
+  <a href="https://github.com/Paarth-dev-lab"><img src="https://ghchart.rshah.org/6ee7b7/Paarth-dev-lab" width="100%" alt="Paarth's GitHub contribution graph" /></a>
+  <sub>Every square is a step in the process. &nbsp; ✦ &nbsp; <a href="https://github.com/Paarth-dev-lab?tab=repositories">Explore all repositories ↗</a></sub>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <br />
+  <strong>HAVE AN IDEA WORTH BUILDING?</strong><br /><br />
+  Let's make something meaningful together.<br /><br />
+  <a href="https://paarths-portfolio.vercel.app/">Portfolio ↗</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/paarth-goswami-113383370">LinkedIn ↗</a> &nbsp; · &nbsp; <a href="mailto:thepaarthgoswami@gmail.com">Email ↗</a>
+  <br /><br /><sub>DESIGNED WITH INTENT &nbsp; / &nbsp; BUILT BY PAARTH</sub>
 </div>
