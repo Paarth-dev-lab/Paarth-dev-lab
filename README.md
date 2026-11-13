@@ -35,7 +35,8 @@ A music genre classification system that turns an audio file into an interactive
 - Follow the project from **dataset preparation and model training** to inference and the final dashboard.
 - Built as an academic project with documented evaluation and limitations.
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,ts&theme=dark" alt="Python, TensorFlow, FastAPI, React, TypeScript" />  
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,ts&theme=dark" alt="Python, TensorFlow, FastAPI, React, TypeScript" />
+
 [Explore SONIQ ↗](https://github.com/Paarth-dev-lab/music-genre-classifier)
 
 ---
@@ -48,7 +49,8 @@ A connected-care prototype bringing patient intake, clinical review, pharmacy an
 - Explores language support, rule-based decisions and at-home follow-up.
 - Built as a **hackathon and engineering prototype** using synthetic data, not for patient care.
 
-<img src="https://skillicons.dev/icons?i=ts,react,flutter,cloudflare&theme=dark" alt="TypeScript, React, Flutter, Cloudflare; also built with Hono" />  
+<img src="https://skillicons.dev/icons?i=ts,react,flutter,cloudflare&theme=dark" alt="TypeScript, React, Flutter, Cloudflare; also built with Hono" />
+
 [Explore AYUSETU ↗](https://github.com/potlasrisharan/hackshift-sudarshan)
 
 ---
@@ -61,7 +63,8 @@ A personal command centre for planning the day, tracking progress and working wi
 - Use **voice commands and Telegram** to interact with the mentor.
 - Sync data through Supabase and build on a TypeScript web and API stack.
 
-<img src="https://skillicons.dev/icons?i=ts,react,express,supabase&theme=dark" alt="TypeScript, React, Express, Supabase; also built with Groq" />  
+<img src="https://skillicons.dev/icons?i=ts,react,express,supabase&theme=dark" alt="TypeScript, React, Express, Supabase; also built with Groq" />
+
 [Explore KAALI ↗](https://github.com/Paarth-dev-lab/KAALI-)
 
 ---
@@ -74,7 +77,8 @@ A Chrome extension that synchronizes YouTube playback and adds peer-to-peer vide
 - Uses **WebRTC** for peer-to-peer media and Socket.IO for signaling.
 - Keeps its overlay isolated with Shadow DOM and restores session state across navigation.
 
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML, CSS; with WebRTC, Socket.IO and Chrome Extensions" />  
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML, CSS; with WebRTC, Socket.IO and Chrome Extensions" />
+
 [Explore SyncMate ↗](https://github.com/Paarth-dev-lab/SyncMate-3)
 
 <br />
